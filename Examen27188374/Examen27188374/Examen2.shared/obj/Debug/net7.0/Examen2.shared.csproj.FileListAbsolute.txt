@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\bin\Debug\net7.0\Examen2.shared.deps.json
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\bin\Debug\net7.0\Examen2.shared.runtimeconfig.json
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\bin\Debug\net7.0\Examen2.shared.dll
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\bin\Debug\net7.0\Examen2.shared.pdb
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\Examen2.shared.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\Examen2.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\Examen2.shared.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\Examen2.shared.AssemblyInfo.cs
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\Examen2.shared.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\Examen2.shared.dll
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\refint\Examen2.shared.dll
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\Examen2.shared.pdb
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\Examen2.shared.genruntimeconfig.cache
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen2.shared\obj\Debug\net7.0\ref\Examen2.shared.dll

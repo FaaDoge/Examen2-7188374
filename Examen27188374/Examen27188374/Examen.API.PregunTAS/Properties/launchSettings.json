@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Examen.API.PregunTAS": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7268",
+      "launchBrowser": false
+    }
+  }
+}

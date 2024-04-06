@@ -1,0 +1,5 @@
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen.Shared\obj\Debug\net6.0\Examen.Shared.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen.Shared\obj\Debug\net6.0\Examen.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen.Shared\obj\Debug\net6.0\Examen.Shared.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen.Shared\obj\Debug\net6.0\Examen.Shared.AssemblyInfo.cs
+C:\Users\LABORATORIO B\Desktop\Examen27188374\Examen2-7188374\Examen27188374\Examen27188374\Examen.Shared\obj\Debug\net6.0\Examen.Shared.csproj.CoreCompileInputs.cache
